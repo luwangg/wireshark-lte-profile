@@ -7,5 +7,5 @@ After you have downloaded it, unzip it. You will see a folder named LTE with sev
 In order to use the profile, locate the Wireshark installation directory. In Windows systems, it should be placed in <i>C:\Program Files\Wireshark</i>. In UNIX-like systems, it should be in <i>/usr/share/wireshark</i>.
 Once you have located the installation directory, open the <i>profiles</i> subdirectory, and copy here the LTE folder mentioned earlier. NOTE: in UNIX-like systems, you would like to do it in a terminal and run this command with <i>sudo</i> privileges (or as root, depending on your likes):
 ```
-cp -R your_download_directory/LTE/ /usr/share/wireshark/profiles/
+cp -R your_downloads_directory/LTE/ /usr/share/wireshark/profiles/
 ```
