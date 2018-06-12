@@ -1,7 +1,7 @@
 # Wireshark profile for LTE traffic capture and analysis
 This repository provides a Wireshark configuration profile that allows the user to capture and analyze LTE (Long Term Evolution) traffic.
 
-You can download the .ZIP file containing the configuration profile from <a href="https://github.com/davidmgarcia95/Wireshark-profile-for-LTE-traffic-capture-and-analysis/raw/master/LTE.zip">here (GitHub repository)</a>.
+Clone or download the project to obtain a .ZIP with the configuration profile.
 
 After you have downloaded it, unzip it. You will see a folder named LTE with several files inside it.
 
